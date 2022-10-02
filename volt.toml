@@ -5,3 +5,7 @@ version = "0.0.1"
 author = "panekj"
 repository = "panekj/lapce-yaml"
 wasm = "bin/lapce-yaml.wasm"
+
+[activation]
+language = ["yaml"]
+workspace-contains = ["*/*.yml", "*/*.yaml"]
