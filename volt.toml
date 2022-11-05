@@ -3,7 +3,7 @@ display-name = "YAML"
 description = "YAML for Lapce: powered by yaml-language-server"
 version = "0.0.1"
 author = "panekj"
-repository = "panekj/lapce-yaml"
+repository = "https://github.com/lapce-community/lapce-yaml"
 wasm = "bin/lapce-yaml.wasm"
 
 [activation]
